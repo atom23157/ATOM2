@@ -5,7 +5,7 @@
  I got to have hands on experience on:
  
  . HTML
- . css
+ . CSS
  
  during these 7 days, and everything was explained from the very basics so that anyone with zero experience on programming can learn. I
  enjoyed these 7 days, you can as well
